@@ -1,10 +1,9 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: http://aboutashu.com/hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
-disqus_shortname: aboutashu
+title: Wistiana
+description: Personal Blog Tia
+author: Tia
+logo: https://65.media.tumblr.com/9415dcebab528b8d11c05cc48705b212/tumblr_inline_n3vhcgZ1ZX1r4o1tn.png
+github: https://github.com/Wistiana
+about: Good person
 google_analytics: UA-72862926-1
 urls:
     - text: Home
