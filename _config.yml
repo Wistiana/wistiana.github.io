@@ -47,7 +47,7 @@ enableTags: true
 tagarray: []
 
 url: "http://aboutashu.com/hcz-jekyll-blog"
-baseurl: "/"
+baseurl: "http://wistiana.github.io/"
 paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
