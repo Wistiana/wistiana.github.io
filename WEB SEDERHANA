@@ -1,0 +1,17 @@
+<HTML>
+<HEAD>
+<TITLE>Menu Utama</TITLE>
+<font face="Tekton Pro Cond " SIZE="12" font color="ORANGE"><marquee bgcolor="BLACK">SELAMAT DATANG DI WEBSITE SAYA</marquee></font>
+</HEAD>
+<BODY BGCOLOR = "black" background="DG.jpg">
+<H1><center><FONT COLOR="BLACK" FACE = "Tekton Pro Cond " SIZE="12">MENU UTAMA</center></H1></FONT>
+<center><font COLOR="black" FACE = "Tekton Pro Cond " SIZE="5">Silakan klik pada link-link berikut:</center></font><BR>
+<center><font face="Tekton Pro Cond " size="4">
+<A HREF = "home.html">TENTANG SAYA</A><BR>
+<A HREF = "pendidikan.html">PENDIDIKAN </A><BR>
+<A HREF = "jadwal kuliah.html">JADWAL KULIAH AMP 2016</A><BR>
+<A HREF = "aktifitas.html">AKTIFITAS </A><BR>
+<A HREF = "lainnya.html">LAINNYA</A><BR>
+</center></font>
+</BODY>
+</HTML>
